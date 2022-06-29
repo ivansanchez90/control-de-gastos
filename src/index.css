@@ -145,7 +145,13 @@ header h1 {
     border-left: 5px solid #b91c1c;
     color: #b91c1c;
 }
-.alerta.success {
+.botonCerrar {
+    opacity: 0.5;
+    transition: all 0.2s ease;
+}
+
+.botonCerrar:hover {
+    opacity: 0.9;
 }
 
 .contenedor {
