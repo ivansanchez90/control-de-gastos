@@ -410,3 +410,18 @@ body .modal {
     font-size: 2.4rem;
     text-align: right;
 }
+
+.copyright {
+    display: block;
+  color: black;
+  margin: 0;
+  padding-bottom: 10px;
+  text-align: center;
+  justify-content: end;
+  margin-top: 545px;
+  font-size: 2rem;
+}
+html {
+    
+    height: 100vh;
+}

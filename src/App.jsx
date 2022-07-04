@@ -84,6 +84,7 @@ function App() {
   }
 
   return (
+    
     <div className={modal ? 'fijar' : ''}>
       <Header 
           gastos={gastos}
@@ -126,7 +127,8 @@ function App() {
        gastoEditar={gastoEditar}
        setGastoEditar={setGastoEditar}
        />}
-
+      
+      
       
     </div>
   )
